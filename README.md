@@ -66,7 +66,7 @@ Consumer finance company is the largest online loan marketplace, facilitating pe
 
 
 ## Contact
-Created by [@praneethkumar4] , KollaNeeraja - feel free to contact us!
+Created by [KollaNeeraja], [@praneethkumar4]- feel free to contact us!
 
 
 <!-- Optional -->
